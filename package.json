@@ -10,7 +10,7 @@
   "dependencies": {
     "apollo-client": "^0.4.8",
     "apollo-passport": "^0.0.5",
-    "apollo-passport-local": "^0.0.2",
+    "apollo-passport-local": "^0.0.3",
     "apollo-passport-react": "^0.0.2",
     "apollo-passport-rethinkdbdash": "^0.0.3",
     "apollo-server": "^0.2.1",
