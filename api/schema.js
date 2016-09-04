@@ -1,9 +1,15 @@
 export const schema = [`
-type Query {
+type RootQuery {
   testString: String
 }
+
+type RootMutation {
+  testString: String
+}
+
 schema {
-  query: Query
+  query: RootQuery,
+  mutation: RootMutation
 }
 `];
 
